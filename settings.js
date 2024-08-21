@@ -10,9 +10,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
-global.ytname = "YT: Tech-God"
+global.ownernomer = "94760789475"
+global.ownername ="dark crazy"
+global.ytname = "YT: dark crazy"
 global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
 
