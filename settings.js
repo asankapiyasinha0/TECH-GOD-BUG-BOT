@@ -13,23 +13,23 @@ const chalk = require('chalk')
 global.ownernomer = "94760789475"
 global.ownername ="dark crazy"
 global.ytname = "YT: dark crazy"
-global.socialm = "GitHub: techgod143"
-global.location = "India, Up, Rampur"
+global.socialm = "GitHub: asankapiyasinha0"
+global.location = "Sri Lanka, Up, colombo"
 
-global.ownernumber = '917466008456'  //creator number
-global.ownername = '🐛Tech god' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '94760789475'  //creator number
+global.ownername = 'dark crazy' //owner name
+global.botname = 'DARK CRAZY MD ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.author = 'Tech-God\n\nContact: +94760789475'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "Youtube Tech God."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
+global.link = 'https://whatsapp.com/channel/0029VacBHjBGzzKX6VTvdq3R'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
